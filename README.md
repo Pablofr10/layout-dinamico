@@ -1,6 +1,6 @@
-# layout-dinamico
+# Layout Dinamico com Vue 3
 
-## Project setup
+## Tutorial de como criar um layout dinamico com Vue 3
 ```
 npm install
 ```
@@ -10,15 +10,6 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<p align="center"> 
+    <img src="./layout-dinamico.png" width="600" title="Layout Dinamico">
+ </p>
